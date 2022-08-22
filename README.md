@@ -1,7 +1,7 @@
 <h2 align="center">Hello, People of Earth <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 <h2 align="center"><img width="90%" height="auto" src="https://wallpaperaccess.com/full/2641051.gif" height="512px"/></a></h2>
 
-I’m Erfina Pangestuti and I'm a sophomore at Gadjah Mada Uiversity. I’m currently studying Geophysics.
+I’m Erfina Pangestuti and I'm a sophomore at Gadjah Mada University. I’m currently studying Geophysics.
   
 ## 💬 Connect with me
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/erfinap)
